@@ -23,6 +23,88 @@
         "id": "https://lgsump.github.io/radio-venceremos-en-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2426,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-bajas.json",
+            "label": {
+              "none": ["Bajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-reporte.json",
+            "label": {
+              "none": ["Reporte"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-cruz-roja.json",
+            "label": {
+              "none": ["Cruz Roja"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-capturados.json",
+            "label": {
+              "none": ["Capturados"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico.json",
+            "label": {
+              "none": ["Contexto Político"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-pichinte.json",
+            "label": {
+              "none": ["Pichinte"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-m-sica.json",
+            "label": {
+              "none": ["Música"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-enfrentamiento.json",
+            "label": {
+              "none": ["Enfrentamiento"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-fmln.json",
+            "label": {
+              "none": ["FMLN"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/radio-venceremos-en-espanol/31-de-diciembre-1981-pm/canvas-1/paintings",
